@@ -13,7 +13,23 @@ I enjoy learning how things work under the hood, building projects from scratch,
 * 🤝 Open to learning, collaboration, and interesting projects
 * 📫 Reach me at **[belalahamed.dev@gmail.com](mailto:belalahamed.dev@gmail.com)**
 
----
+## 🤝 Connect With Me
+
+<p align="left">
+  <a href="https://github.com/belalahamed" target="_blank">
+    <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub" />
+  </a>
+  <a href="https://linkedin.com/in/belal-ahamed" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn" />
+  </a>
+  <a href="https://dev.to/belalahamed" target="_blank">
+    <img src="https://skillicons.dev/icons?i=devto" width="45" alt="Dev.to" />
+  </a>
+  <a href="https://medium.com/@belalahamed" target="_blank">
+    <img src="https://skillicons.dev/icons?i=medium" width="45" alt="Medium" />
+  </a>
+</p>
+
 
 ## 🧑‍💻 Tech Stack
 
@@ -47,7 +63,6 @@ I enjoy learning how things work under the hood, building projects from scratch,
   <img src="https://skillicons.dev/icons?i=git,github,postman,vscode" height="45" alt="Tools" />
 </p>
 
----
 
 ## 🌱 Currently Learning
 
@@ -60,38 +75,6 @@ Databases      → MongoDB, PostgreSQL, SQL & NoSQL
 Development    → Git, GitHub, REST APIs, Postman
 ```
 
----
-
-## 🚀 What I'm Working Toward
-
-* Building full-stack web applications
-* Writing cleaner and more maintainable code
-* Understanding backend architecture and APIs
-* Working confidently with SQL and NoSQL databases
-* Improving my React and Node.js skills
-* Learning modern development practices
-* Turning ideas into real-world projects
-
----
-
-## 🤝 Connect With Me
-
-<p align="left">
-  <a href="https://github.com/belalahamed" target="_blank">
-    <img src="https://skillicons.dev/icons?i=github" width="45" alt="GitHub" />
-  </a>
-  <a href="https://linkedin.com/in/belal-ahamed" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="45" alt="LinkedIn" />
-  </a>
-  <a href="https://dev.to/belalahamed" target="_blank">
-    <img src="https://skillicons.dev/icons?i=devto" width="45" alt="Dev.to" />
-  </a>
-  <a href="https://medium.com/@belalahamed" target="_blank">
-    <img src="https://skillicons.dev/icons?i=medium" width="45" alt="Medium" />
-  </a>
-</p>
-
----
 
 ## 📊 GitHub Stats
 
